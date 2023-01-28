@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: #cfe9e1;
+}
+
+.index-img{
+    margin-left:380px;
+}
+h1,h2, a
+{
+    color:lightcoral;
+    background-color:azure;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    text-align: center;
+
+}
+
+
+
+a{
+    margin-left:380px;
+    margin-bottom: 50px;
+}
+p, li, ul{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
